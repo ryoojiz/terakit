@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Terakit</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="/public/faviconalt.svg">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+  <link rel="stylesheet" href="public/leaflet/leaflet.css"/>
+  <script src="public/leaflet/leaflet.js"></script>
+
+  <script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+  <!-- <script src="https://maps.googleapis.com/maps/api/js"></script> -->
+</head>
+
+<body>
+  <div class="main-container header">
+    <div class="sub-container" style="width: 100%; height: fit-content;">
+      <img class="logo" id="logo" src="public/logo.svg" alt="">
+      <div class="button-group" style="margin-left: auto;">
+        <button class="fab" id="searchButton">
+          <span class="material-symbols-rounded">search</span>
+          <input type="text" id="searchField" placeholder="Search a route or Device ID">
+        </button>
+        <button class="fab" id="btnRoute">
+          <span class="material-symbols-rounded">route</span>
+        </button>
+        <button class="fab" id="btnFavorites">
+          <span class="material-symbols-rounded">star</span>
+        </button>
+        <button class="fab" id="btnSettings">
+          <span class="material-symbols-rounded">settings</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="main-container footer">
+    <div class="sub-container" style="width: 100%; height: fit-content;">
+      <div class="button-group">
+        <button class="fab" id="btnLocate">
+          <span class="material-symbols-rounded">my_location</span>
+        </button>
+        <button class="fab" id="btnFilter">
+          <span class="material-symbols-rounded">filter_list</span>
+        </button>
+        <button class="fab" id="btnTestInfoBox">
+          <span class="material-symbols-rounded">info</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="infoBox show" id="infoBox" style=" right: 32px; top: 106px; height: calc(100vh - 120px - 16px); width: 450px;">
+    <div class="infoBoxHeader">
+      <span class="material-symbols-rounded" id="infoBoxClose" style="cursor: pointer;">close</span>
+    </div>
+    <div class="infoBoxContent" id="rightInfoBoxContent">
+      <div id="busInfo" style="display: block;">
+        
+      </div>
+      <div id="routesList" style="display: none;">
+        <h2>Available Routes</h2>
+        <ul id="routesUl" style="list-style: none; padding: 0;">
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div id="map"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "JAK.01",
+    "name": "Tanjung Priok - Plumpang",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.10",
+    "name": "Tanah Abang - Kota",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.10A",
+    "name": "Gondangdia - Cikini via Salemba Raya",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.10B",
+    "name": "Gondangdia - Cikini via Kramat Raya",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.11",
+    "name": "Tanah Abang - Kebayoran Lama",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.12",
+    "name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.13",
+    "name": "Tanah Abang - Jembatan Lima",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.14",
+    "name": "Tanah Abang - Meruya",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.15",
+    "name": "Terminal Tanjung Priok - Rusun Marunda",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.16",
+    "name": "Cililitan - Condet",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.17",
+    "name": "Senen - Pulo Gadung",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.02",
+    "name": "Kampung Melayu - Duren Sawit",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.18",
+    "name": "Kalibata - Kuningan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.19",
+    "name": "Pinang Ranti - Kampung Rambutan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.20",
+    "name": "Cawang Sentral - Lubang Buaya",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.21",
+    "name": "Cililitan - Dwikora",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.22",
+    "name": "Dwikora - Halim",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.23",
+    "name": "Senen - Pisangan Baru",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.24",
+    "name": "Senen - Pulo Gadung via Kelapa Gading",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.25",
+    "name": "Pasar Rebo - Kalisari",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.26",
+    "name": "Rawamangun - Duren Sawit",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.27",
+    "name": "Pulo Gebang - Rorotan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.03",
+    "name": "Lebak Bulus - Andara",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.28",
+    "name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.29",
+    "name": "Tanjung Priok - Sukapura",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.30",
+    "name": "Grogol - Meruya via Roxy",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.31",
+    "name": "Blok M - Andara",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.32",
+    "name": "Lebak Bulus - Petukangan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.33",
+    "name": "Pulo Gadung - Kota",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.34",
+    "name": "Rawamangun - Klender",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.35",
+    "name": "Pangkalan Jati - Rawamangun",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.36",
+    "name": "Cilangkap - Cililitan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.37",
+    "name": "Cililitan - Condet via Kayu Manis",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.04",
+    "name": "Grogol - Tubagus Angke",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.38",
+    "name": "Bulak Ringin - Kampung Rambutan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.39",
+    "name": "Kalimalang - Duren Sawit",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.40",
+    "name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.41",
+    "name": "Kampung Melayu - Pulo Gadung",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.42",
+    "name": "Kampung Melayu - Pondok Kelapa",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.43B",
+    "name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.43C",
+    "name": "Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.44",
+    "name": "Andara - Stasiun Universitas Pancasila",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.45",
+    "name": "Lebak Bulus - Ragunan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.46",
+    "name": "Pasar Minggu - Jagakarsa",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.05",
+    "name": "Semper - Rorotan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.47",
+    "name": "Pasar Minggu - Ciganjur via KB Ragunan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.48A",
+    "name": "Stasiun Tebet - Karet",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.49",
+    "name": "Lebak Bulus - Cipulir",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.50",
+    "name": "Kalideres - Puri Kembangan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.51",
+    "name": "Taman Kota - Budi Luhur",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.52",
+    "name": "Kalideres - Muara Angke",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.53",
+    "name": "Grogol - Pos Pengumben via Slipi",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.54",
+    "name": "Grogol - Benhil",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.56",
+    "name": "Grogol - Srengseng",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.58",
+    "name": "Cilincing - Rorotan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.06",
+    "name": "Kampung Rambutan - Pondok Gede",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.59",
+    "name": "Rawamangun - Tanah Merah",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.60",
+    "name": "Kelapa Gading - Rusun Kemayoran",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.61",
+    "name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.64",
+    "name": "Lenteng Agung - Aseli",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.71",
+    "name": "Kampung Rambutan - Pinang Ranti",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.72",
+    "name": "Kampung Rambutan - Pasar Rebo via Poncol",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.73",
+    "name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.74",
+    "name": "Terminal Rawamangun - Cipinang Muara",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.75",
+    "name": "Cililitan - Kampung Pulo",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.76",
+    "name": "Jln. Industri Raya - Perintis Kemerdekaan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.07",
+    "name": "Tanah Abang - Grogol via Tawakal",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.77",
+    "name": "Tanjung Priok - Jembatan Item",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.78A",
+    "name": "Benda - Cengkareng Timur",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.78B",
+    "name": "Jembatan Tiga - Teluk Gong",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.79",
+    "name": "Cengkareng - Tubagus Angke",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.80",
+    "name": "Rawa Buaya - Rawa Kompeni",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.84",
+    "name": "Terminal Kampung Melayu - Kapin Raya",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.85",
+    "name": "Bintara - Cipinang Indah",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.86",
+    "name": "Term. Rawamangun - Term. Manggarai",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.87",
+    "name": "Terminal Tanjung Priok - Terminal Rawamangun",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.88",
+    "name": "Terminal Tanjung Priok - Ancol Barat",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.08",
+    "name": "Roxy - Benhil",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.89",
+    "name": "Terminal Tanjung Priok - Taman Kota Intan",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.90",
+    "name": "Terminal Tanjung Priok - Rusun Kemayoran",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.93",
+    "name": "Jeruk Purut - Kebayoran Lama",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.95",
+    "name": "Term. Lebak Bulus - Term. Pasar Minggu",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.98",
+    "name": "Term. Kampung Rambutan - Munjul",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.100",
+    "name": "Term. Pulo Gebang - Rusun Pinus Elok",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.99",
+    "name": "Term. Pulo Gadung - Lampiri",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.102",
+    "name": "Blok M - Lebak Bulus",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.105",
+    "name": "Stasiun Tebet - Rusun Cipinang Muara",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.106",
+    "name": "Term. Kampung Melayu - Term. Klender",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.107",
+    "name": "Jembatan Garden - Puri Beta",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.09",
+    "name": "Roxy Mas - Karet",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.108",
+    "name": "Kramat Jati - Bambu Apus",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.110A",
+    "name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.112",
+    "name": "Terminal Tanah Merah - Pulo Gadung",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.113",
+    "name": "Rusun Sindang Koja - Kampung Sawah",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.115",
+    "name": "Term. Tj. Priok - Pegangsaan II IGI",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.117",
+    "name": "Tanjung Priok - Tanah Merdeka",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.118",
+    "name": "Taman Waduk Papanggo - Kota Tua",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "JAK.120",
+    "name": "JIS - Term. Muara Angke",
+    "color": "#00609C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "6U",
+    "name": "Blok M - Pasar Minggu",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6W",
+    "name": "Duren Tiga - Blok M via Bangka Raya",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "7A",
+    "name": "Kampung Rambutan - Lebak Bulus",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7B",
+    "name": "Kampung Rambutan - Blok M",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7D",
+    "name": "TMII - Pancoran",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7E",
+    "name": "Kampung Rambutan - Ragunan",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7F",
+    "name": "Kampung Rambutan - Juanda via Cempaka Putih",
+    "color": "#914900",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7Q",
+    "name": "Blok M - PGC",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7R",
+    "name": "Cibubur - Pluit",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7T",
+    "name": "Cibubur - Tanjung Priok",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7U",
+    "name": "Cibubur - Ancol",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7V",
+    "name": "Cibubur - Kampung Rambutan",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7W",
+    "name": "Cawang - St. Kereta Cepat Halim",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "8A",
+    "name": "Jelambar - Juanda",
+    "color": "#DD3393",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "8C",
+    "name": "Kebayoran - Tanah Abang",
+    "color": "#DD6AAB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "8D",
+    "name": "Joglo - Blok M",
+    "color": "#DD6AAB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "8E",
+    "name": "Bintaro - Blok M",
+    "color": "#DD6AAB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "8K",
+    "name": "Batusari - Grogol",
+    "color": "#DD6AAB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "8M",
+    "name": "Tanjung Duren - Tanah Abang",
+    "color": "#DD6AAB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "8N",
+    "name": "Kebayoran - Petamburan via Asia Afrika",
+    "color": "#DD6AAB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "9A",
+    "name": "Cililitan - Grogol",
+    "color": "#45A49E",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "9C",
+    "name": "Pinang Ranti - Bundaran Senayan",
+    "color": "#45A49E",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "9D",
+    "name": "Pasar Minggu - Tanah Abang",
+    "color": "#66A4A0",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "9E",
+    "name": "Kebayoran Lama - Jelambar",
+    "color": "#66A4A0",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "9F",
+    "name": "Rusun Tambora - Pluit",
+    "color": "#85A4A2",
+    "textColor": "#000000"
+  },
+  {
+    "id": "9H",
+    "name": "Cipedak - Pasar Minggu",
+    "color": "#66A4A0",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "9N",
+    "name": "Pinang Ranti - Simpang Cawang",
+    "color": "#66A4A0",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "B11",
+    "name": "Summarecon Bekasi - Cawang",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "B13",
+    "name": "Bekasi Barat - Blok M",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "PRJ1",
+    "name": "Kampung Melayu - JIEXPO Kemayoran",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "B21",
+    "name": "Bekasi Timur - Cawang",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "B41",
+    "name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "BW1",
+    "name": "Sejarah Jakarta",
+    "color": "#FFB6DB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "BW2",
+    "name": "Monas Explorer",
+    "color": "#FFB6DB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "BW4",
+    "name": "Pencakar Langit",
+    "color": "#FFB6DB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "BW9",
+    "name": "Kota Tua - PIK",
+    "color": "#FFB6DB",
+    "textColor": "#000000"
+  },
+  {
+    "id": "D11",
+    "name": "Depok - Cawang Sentral via Cibubur",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "D21",
+    "name": "Universitas Indonesia - Lebak Bulus",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "D31",
+    "name": "Cinere - Kuningan",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "D32",
+    "name": "Cinere - Bundaran Senayan",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "L13E",
+    "name": "Puri Beta 2 - Flyover Kuningan (Express)",
+    "color": "#7A357B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "S11",
+    "name": "BSD - Jelambar",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "S12",
+    "name": "Term. BSD - Fatmawati",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "S13",
+    "name": "Summarecon Serpong - Tomang",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "S14",
+    "name": "Summarecon Serpong - Lebak Bulus",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "S21",
+    "name": "Ciputat - CSW",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "S22",
+    "name": "Ciputat - Kampung Rambutan via Tol",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "S31",
+    "name": "Bintaro - Fatmawati",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "S61",
+    "name": "Alam Sutera - Blok M",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "SH1",
+    "name": "Kalideres - Perkantoran Soekarno-Hatta",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "T11",
+    "name": "Poris Plawad - Petamburan",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "T12",
+    "name": "Poris Plawad - Juanda",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "T21",
+    "name": "Taman Banjar Wijaya - Petamburan",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "T31",
+    "name": "PIK 2 - Blok M",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "D41",
+    "name": "Sawangan - Lebak Bulus",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "P11",
+    "name": "Bogor - Blok M",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "3B",
+    "name": "Rusun Flamboyan - Cengkareng",
+    "color": "#FDECB4",
+    "textColor": "#000000"
+  },
+  {
+    "id": "B25",
+    "name": "Bekasi - Dukuh Atas",
+    "color": "#FFFF6D",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1W",
+    "name": "Blok M - Ancol",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "B14",
+    "name": "Bekasi Barat - Kuningan",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "PRJ2",
+    "name": "Pulo Gadung - JIEXPO Kemayoran",
+    "color": "#D48961",
+    "textColor": "#0"
+  },
+  {
+    "id": "2C",
+    "name": "Balai Kota - JIEXPO",
+    "color": "#2F489C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "21ST",
+    "name": "Shuttle Senen",
+    "color": "#D46425",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1",
+    "name": "Blok M - Kota",
+    "color": "#D62126",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "2",
+    "name": "Pulo Gadung - Monas",
+    "color": "#2F489C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "3",
+    "name": "Kalideres - Monas via Veteran",
+    "color": "#FDCB1C",
+    "textColor": "#000000"
+  },
+  {
+    "id": "4",
+    "name": "Pulo Gadung - Galunggung",
+    "color": "#512C62",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "5",
+    "name": "Kampung Melayu - Ancol",
+    "color": "#D46425",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6",
+    "name": "Ragunan - Galunggung",
+    "color": "#1BAC47",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7",
+    "name": "Kampung Rambutan - Kampung Melayu",
+    "color": "#914900",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "8",
+    "name": "Lebak Bulus - Pasar Baru",
+    "color": "#DD3393",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "9",
+    "name": "Pinang Ranti - Pluit",
+    "color": "#45A49E",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "P21",
+    "name": "Podomoro Golf View - St LRT Harjamukti",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "10",
+    "name": "Tanjung Priok - PGC",
+    "color": "#9B1F21",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11",
+    "name": "Pulo Gebang - Kampung Melayu",
+    "color": "#312F92",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "12",
+    "name": "Tanjung Priok - Pluit",
+    "color": "#7ABF7C",
+    "textColor": "#000000"
+  },
+  {
+    "id": "13",
+    "name": "Ciledug - Tegal Mampang",
+    "color": "#7A357B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "14",
+    "name": "Jakarta International Stadium - Senen",
+    "color": "#F5AB6E",
+    "textColor": "#000000"
+  },
+  {
+    "id": "10A",
+    "name": "Rusun Marunda - Tanjung Priok",
+    "color": "#9B7172",
+    "textColor": "#000000"
+  },
+  {
+    "id": "10B",
+    "name": "Rusun Cipinang Besar Selatan - Halim",
+    "color": "#9B7172",
+    "textColor": "#000000"
+  },
+  {
+    "id": "10D",
+    "name": "Kampung Rambutan - Tanjung Priok",
+    "color": "#9B1F21",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "10H",
+    "name": "Tanjung Priok - Bundaran Senayan",
+    "color": "#9B1F21",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11B",
+    "name": "Rusun Rawa Bebek - Penggilingan",
+    "color": "#717092",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11C",
+    "name": "Rusun Pulo Gebang - Penggilingan",
+    "color": "#717092",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11D",
+    "name": "Pulo Gebang - Pulo Gadung via PIK",
+    "color": "#504F92",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11M",
+    "name": "Rusun Rawa Bebek - Bukit Duri",
+    "color": "#717092",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11P",
+    "name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+    "color": "#717092",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11Q",
+    "name": "Kampung Melayu - Pulo Gebang via BKT",
+    "color": "#504F92",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11R",
+    "name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+    "color": "#717092",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "11W",
+    "name": "St. Klender - Pulo Gadung via JIEP",
+    "color": "#504F92",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "12A",
+    "name": "Pelabuhan Kaliadem - Kota",
+    "color": "#91BF91",
+    "textColor": "#000000"
+  },
+  {
+    "id": "12B",
+    "name": "Pluit - Senen",
+    "color": "#91BF91",
+    "textColor": "#000000"
+  },
+  {
+    "id": "12C",
+    "name": "Rusun Waduk Pluit - Penjaringan",
+    "color": "#A8BFA8",
+    "textColor": "#000000"
+  },
+  {
+    "id": "12F",
+    "name": "Rusun Marunda - Rusun Waduk Pluit",
+    "color": "#A8BFA8",
+    "textColor": "#000000"
+  },
+  {
+    "id": "12H",
+    "name": "Rusun Penjaringan - Penjaringan",
+    "color": "#A8BFA8",
+    "textColor": "#000000"
+  },
+  {
+    "id": "12P",
+    "name": "St. LRT Pegangsaan Dua - JIS",
+    "color": "#91BF91",
+    "textColor": "#000000"
+  },
+  {
+    "id": "13B",
+    "name": "Puri Beta - Pancoran",
+    "color": "#7A357B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "13E",
+    "name": "Puri Beta - Kuningan",
+    "color": "#7A357B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "14A",
+    "name": "Monumen Nasional - Jakarta International Stadium",
+    "color": "#F5AB6E",
+    "textColor": "#000000"
+  },
+  {
+    "id": "14B",
+    "name": "Tanjung Priok - Senen via JIS",
+    "color": "#F5AB6E",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1A",
+    "name": "Pantai Maju - Balai Kota",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1B",
+    "name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1C",
+    "name": "Pesanggrahan - Blok M",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1E",
+    "name": "Pondok Labu - Blok M",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1F",
+    "name": "Stasiun Palmerah - Bundaran Senayan",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1H",
+    "name": "Tanah Abang - Stasiun Gondangdia",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1K",
+    "name": "Cibubur Junction - Blok M",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "1M",
+    "name": "Meruya - Blok M",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1N",
+    "name": "Tanah Abang - Blok M",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1P",
+    "name": "Senen - Blok M",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1Q",
+    "name": "Rempoa - Blok M",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1R",
+    "name": "Senen - Tanah Abang",
+    "color": "#D65E62",
+    "textColor": "#000000"
+  },
+  {
+    "id": "1T",
+    "name": "Cibubur - Balai Kota",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "2A",
+    "name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+    "color": "#2F489C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "2B",
+    "name": "Harapan Indah - Pulo Gadung",
+    "color": "#54659C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "2F",
+    "name": "Rusun Cakung Barat - Pulo Gadung",
+    "color": "#78809C",
+    "textColor": "#000000"
+  },
+  {
+    "id": "2H",
+    "name": "Rusun Jati Rawasari - Senen",
+    "color": "#78809C",
+    "textColor": "#000000"
+  },
+  {
+    "id": "2P",
+    "name": "Senen - Transport Hub Dukuh Atas",
+    "color": "#54659C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "2Q",
+    "name": "Gondangdia - Balai Kota",
+    "color": "#54659C",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "3A",
+    "name": "Rusun Pesakih - Kalideres",
+    "color": "#FDECB4",
+    "textColor": "#000000"
+  },
+  {
+    "id": "SAT",
+    "name": "Shuttle Ancol Timur",
+    "color": "#B7342D",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "SAB",
+    "name": "Shuttle Ancol Barat",
+    "color": "#0754D2",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "SOE",
+    "name": "Shuttle Bandara Soekarno-Hatta",
+    "color": "#184E9E",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "ASG1",
+    "name": "Shelter PIK 2 - PIK Avenue Via NICE",
+    "color": "#147AFC",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "ASG2",
+    "name": "PIK 2 Millennials  - PIK Avenue Via CBD PIK 2",
+    "color": "#147AFC",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "ASG3",
+    "name": "Tokyo Riverside Apt. - PIK Avenue Via IDD",
+    "color": "#147AFC",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "ASG4",
+    "name": "PIK 2 - Juanda",
+    "color": "#147AFC",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "3F",
+    "name": "Kalideres - Senayan BANK JAKARTA",
+    "color": "#FDCB1C",
+    "textColor": "#000000"
+  },
+  {
+    "id": "3C",
+    "name": "Rusun Kapuk Muara - Penjaringan",
+    "color": "#FDECB4",
+    "textColor": "#000000"
+  },
+  {
+    "id": "3D",
+    "name": "Taman Kota - Penjaringan via Tubagus Angke",
+    "color": "#FDDB6A",
+    "textColor": "#000000"
+  },
+  {
+    "id": "3E",
+    "name": "Puri Kembangan - Sentraland Cengkareng",
+    "color": "#FDDB6A",
+    "textColor": "#000000"
+  },
+  {
+    "id": "3H",
+    "name": "St. Pesing - Kota",
+    "color": "#FDCB1C",
+    "textColor": "#000000"
+  },
+  {
+    "id": "4B",
+    "name": "Stasiun Manggarai - UI",
+    "color": "#553C62",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "4C",
+    "name": "Pemuda Merdeka - Bundaran Senayan",
+    "color": "#553C62",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "4D",
+    "name": "Pulo Gadung - Kuningan",
+    "color": "#512C62",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "4E",
+    "name": "Rusun Jatinegara Kaum - Pulo Gadung",
+    "color": "#5C5062",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "4F",
+    "name": "Pinang Ranti - Pulo Gadung",
+    "color": "#553C62",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "4K",
+    "name": "Pulo Gadung - Kejaksaan Agung",
+    "color": "#512C62",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "5B",
+    "name": "Stasiun Tebet - Bidara Cina",
+    "color": "#D48961",
+    "textColor": "#000000"
+  },
+  {
+    "id": "5C",
+    "name": "Cililitan - Juanda",
+    "color": "#D46425",
+    "textColor": "#000000"
+  },
+  {
+    "id": "5F",
+    "name": "Kampung Melayu - Tanah Abang",
+    "color": "#D48961",
+    "textColor": "#000000"
+  },
+  {
+    "id": "5M",
+    "name": "Kampung Melayu - Tanah Abang via Cikini",
+    "color": "#D48961",
+    "textColor": "#000000"
+  },
+  {
+    "id": "5N",
+    "name": "Kampung Melayu - Ragunan",
+    "color": "#D48961",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6A",
+    "name": "Ragunan - Balai Kota via Kuningan",
+    "color": "#1BAC47",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "6B",
+    "name": "Ragunan - Balai Kota via Semanggi",
+    "color": "#1BAC47",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "6C",
+    "name": "Stasiun Tebet - Kuningan",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6D",
+    "name": "Stasiun Tebet - Bundaran Senayan",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6H",
+    "name": "Senen - Lebak Bulus",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6K",
+    "name": "Kuningan - Karet",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6M",
+    "name": "Stasiun Manggarai - Blok M",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6N",
+    "name": "Ragunan - Blok M via Kemang",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6P",
+    "name": "Cibubur - Kuningan",
+    "color": "#9C4782",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7P",
+    "name": "Pondok Kelapa - Cawang Cililitan",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "7C",
+    "name": "Cibubur - Cawang Cililitan",
+    "color": "#916131",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "6V",
+    "name": "Ragunan - Senayan BANK JAKARTA",
+    "color": "#1BAC47",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "id": "6Q",
+    "name": "Galunggung - Casablanca via Epicentrum Raya",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  },
+  {
+    "id": "6T",
+    "name": "Pasar Minggu - Velbak via Jeruk Purut",
+    "color": "#4CAC67",
+    "textColor": "#000000"
+  }
+]

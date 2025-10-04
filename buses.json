@@ -1,0 +1,335 @@
+[
+  {
+    "Operator": "TJ",
+    "Rute": "1,2,7,9,4D,9C,10H,B25,B41,P11,S61",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-388-408"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "7,B25,P11,S61",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Restu Ibu Pusaka",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-469-482"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "3E,6K,B25,D41,P11,S61",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-872-881"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "1,3,4,5,7,9,3H,4D,5C,9C,B25,D41,P11",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1526",
+    "Karoseri": "Tentrem,Laksana,Rahayu Sentosa,Tri Sakti",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-247-346"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "1,9,9C",
+    "Merek": "Mercedes-Benz",
+    "Model": "OC 500 RF",
+    "Karoseri": "Nusantara Gemilang",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-355-380"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "2,3,4,10,12,14,2A,3H,4D,9A",
+    "Merek": "Hino",
+    "Model": "RK1 JSNL",
+    "Karoseri": "New Armada",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-409-460"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "1,2,9,9C,13B",
+    "Merek": "Scania",
+    "Model": "K320IA",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "TJ-188-238"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "1R,2P,7W,B11,B21,D11,S22,SH1,T12",
+    "Merek": "Mercedes-Benz",
+    "Model": "O500U 1726",
+    "Karoseri": "Laksana Cityline 2 LE",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "TJ-483-531"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "1H,2P,2Q,5F,5M,6D,7W,B11,B21,D11,S22,SH1,T12",
+    "Merek": "Mercedes-Benz",
+    "Model": "O500U 1726",
+    "Karoseri": "Nusantara Gemilang",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "TJ-782-871"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "N/A",
+    "Merek": "Mercedes-Benz",
+    "Model": "OF 917",
+    "Karoseri": "Tentrem, New Armada",
+    "Tipe": "Royaltrans",
+    "NomorLambung": "TJ-532-631"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "1N,1P,2B,4C,4F,5F,D11,S11,T11",
+    "Merek": "Scania",
+    "Model": "K250UB",
+    "Karoseri": "Laksana Cityline 2 LE",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "TJ-632-781"
+  },
+  {
+    "Operator": "TJ",
+    "Rute": "3D,3E,5N,6W,8K.8M,11D,14B",
+    "Merek": "Mitsubishi",
+    "Model": "Colt FE 84G",
+    "Karoseri": "New Armada",
+    "Tipe": "Minitrans",
+    "NomorLambung": "TSW-001-100"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "1,2,4,6,12,7,9,10,12,14,5C,6A,6B,1A,4K,6H,6K",
+    "Merek": "Skywell",
+    "Model": "NJL6126BEV",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "DMR-240155-250274"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "1,2,4,5,6,8,10,8,9,2A,5C,6A,6B",
+    "Merek": "Zhongtong",
+    "Model": "N12",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "DMR-240125-250224"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "1,2,5,9,10,5C,9C,7C,7R,7T,7U",
+    "Merek": "Zhongtong",
+    "Model": "LCK6180GC",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "DMR-705-760"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "7,9,12,9A,9C,5B,6H,6M,7D,9E,12B,14A,7V,11Q",
+    "Merek": "Hino",
+    "Model": "RK8 R260",
+    "Karoseri": "Restu Ibu Pusaka",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "DMR-104-153"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "7,9,12,9A,9C,5B,6H,6M,7D,9E,12B,14A,7V,11Q",
+    "Merek": "Hino",
+    "Model": "RK8 R260",
+    "Karoseri": "Rahayu Sentosa",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "DMR-154-353"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "7,9,12,9A,9C,5B,6H,6M,7D,9E,12B,14A,7V,11Q",
+    "Merek": "Hino",
+    "Model": "RK8 R260",
+    "Karoseri": "Laksana Discovery",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "DMR-354-704"
+  },
+  {
+    "Operator": "DMR",
+    "Rute": "4C,4F,11W",
+    "Merek": "Skywell",
+    "Model": "NJL6129BEV",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "DMR-230099-230124"
+  },
+  {
+    "Operator": "BMP",
+    "Rute": "1,2,3,4,5,6,7,8,11,13,3F,6A,6B,6V,7F",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Tri Sakti",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "BMP-242-220299"
+  },
+  {
+    "Operator": "BMP",
+    "Rute": "1,6,8,6A,6B,6V",
+    "Merek": "Golden Dragon",
+    "Model": "Pivot E12",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "BMP-240322-240411"
+  },
+  {
+    "Operator": "BMP",
+    "Rute": "1P,4B,6D,D21,S21",
+    "Merek": "Golden Dragon",
+    "Model": "Pivot E12",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "BMP-230300-230321"
+  },
+  {
+    "Operator": "BMP",
+    "Rute": "7B",
+    "Merek": "Isuzu",
+    "Model": "NQR 71",
+    "Karoseri": "Tri Sakti",
+    "Tipe": "Minitrans",
+    "NomorLambung": "BMP-240412-240432"
+  },
+  {
+    "Operator": "MYS",
+    "Rute": "1,3,5,7,9,10,13,3F,5C,7F,9A,10D,10H,13E,L13E,7C",
+    "Merek": "Scania",
+    "Model": "K310IB",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "MYS-17001-18150"
+  },
+  {
+    "Operator": "MB",
+    "Rute": "1,2,3,9,10,13,3F,5C,9A,9C,13B",
+    "Merek": "Scania",
+    "Model": "K320IA",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "MB-1601-1656"
+  },
+  {
+    "Operator": "MYS",
+    "Rute": "1,3,7,9,12,3F,7F,9C,9N,6H,6M,P11,S61,T31,1A,7C,B41,5C",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "MYS-18151-19223"
+  },
+  {
+    "Operator": "MYS",
+    "Rute": "9,9C,9N,1B,1F,6H,9D,12P,6Q,10D,B25,P11,S61,T31,B41",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Laksana Cityline 3 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "MYS-21224-21333"
+  },
+  {
+    "Operator": "MYS",
+    "Rute": "1E,4B,5M,7A,D21",
+    "Merek": "BYD",
+    "Model": "B12",
+    "Karoseri": " CBU (Completely Built Up)",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "MYS-22334-23385"
+  },
+  {
+    "Operator": "BHL",
+    "Rute": "7D",
+    "Merek": "Hino",
+    "Model": "RN8 285",
+    "Karoseri": "Laksana Nucleus 5",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "BHL-220508-220515"
+  },
+  {
+    "Operator": "MBT",
+    "Rute": "6U,7B",
+    "Merek": "Hino",
+    "Model": "GB 150L",
+    "Karoseri": "Laksana Nucleus 5",
+    "Tipe": "Minitrans",
+    "NomorLambung": "MBT-240601-240628"
+  },
+  {
+    "Operator": "KBM",
+    "Rute": "1C,8E,8D",
+    "Merek": "Hino",
+    "Model": "FB 130",
+    "Karoseri": "Trisakti Transliner Midi",
+    "Tipe": "Minitrans",
+    "NomorLambung": "KBM-220001-220022"
+  },
+  {
+    "Operator": "JDM",
+    "Rute": "1M,1Q,3E,5N,8N,6D,6N,6T,8D,8C",
+    "Merek": "Hino",
+    "Model": "GB 150L",
+    "Karoseri": "Laksana Nucleus 5",
+    "Tipe": "Minitrans",
+    "NomorLambung": "JDM-230001-240094"
+  },
+  {
+    "Operator": "PKT",
+    "Rute": "2,2A",
+    "Merek": "Mercedes-Benz",
+    "Model": "OH 1626",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "PKT-101-115"
+  },
+  {
+    "Operator": "SAF",
+    "Rute": "3,5,10,11,3F,3H,4D,5C,9A,10H,2A,6M",
+    "Merek": "Volvo",
+    "Model": "B11R",
+    "Karoseri": "Laksana Cityline 2 HD",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "SAF-001-119"
+  },
+  {
+    "Operator": "SJM",
+    "Rute": "10,14",
+    "Merek": "BYD",
+    "Model": "D9",
+    "Karoseri": "Laksana eCityline 3",
+    "Tipe": "Transjakarta",
+    "NomorLambung": "SJM-240001-240020"
+  },
+  {
+    "Operator": "PSU",
+    "Rute": "7B,7P",
+    "Merek": "Isuzu",
+    "Model": "NQR 71",
+    "Karoseri": "Laksana Nucleus 5",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "PSU-240001-2400018"
+  },
+  {
+    "Operator": "SGI",
+    "Rute": "6N,9H",
+    "Merek": "Isuzu",
+    "Model": "NQR 71",
+    "Karoseri": "Laksana Nucleus 5",
+    "Tipe": "Metrotrans",
+    "NomorLambung": "SGI-240001-2400015"
+  }
+]
