@@ -1,11 +1,14 @@
 
 
 const busMarkers = {};
+const infoBoxRight = document.getElementById("infoBoxRight");
+const infoBoxRightContent = document.getElementById("infoBoxRightContent");
 let routes = {};
 let map;
 let busdb = [];
 let currentEventSource = null;
 let currentRightInfoScreen = null;
+
 var busFilters = { koridor: [], type: ["transjakarta"] };
 async function loadBuses() {
     try {
@@ -57,7 +60,7 @@ function initMap() {
     };
 }
 
-function createRoundelIcon(text, color = "#007F00", textcolor = "white") {
+function createRoundelIcon(text, color = "#646464", textcolor = "white") {
     const canvas = document.createElement("canvas");
     const size = 30;
     canvas.width = size;
@@ -74,7 +77,7 @@ function createRoundelIcon(text, color = "#007F00", textcolor = "white") {
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
     ctx.fillText(text, size / 2, size / 2);
-    
+
     return L.icon({
         iconUrl: canvas.toDataURL(),
         iconSize: [size, size],
@@ -88,8 +91,8 @@ function updateBuses(busArray) {
         if (busFilters.koridor.length > 0 && !busFilters.koridor.includes(bus.koridor)) {
             // Remove marker if exists
             if (busMarkers[bus.device_id]) {
-            map.removeLayer(busMarkers[bus.device_id]);
-            delete busMarkers[bus.device_id];
+                map.removeLayer(busMarkers[bus.device_id]);
+                delete busMarkers[bus.device_id];
             }
             return;
         }
@@ -97,8 +100,8 @@ function updateBuses(busArray) {
         if (!busFilters.type.includes("mikrotrans") && bus.koridor !== null && bus.koridor.startsWith("JAK")) {
             // Remove marker if exists
             if (busMarkers[bus.device_id]) {
-            map.removeLayer(busMarkers[bus.device_id]);
-            delete busMarkers[bus.device_id];
+                map.removeLayer(busMarkers[bus.device_id]);
+                delete busMarkers[bus.device_id];
             }
             return;
         }
@@ -130,7 +133,7 @@ function updateBuses(busArray) {
 function findBus(nomorLambungInput) {
     const match = nomorLambungInput.match(/^([A-Z]+)-(\d+)$/);
     if (!match) {
-        return { error: "❌ Invalid format. Use OPERATOR-XXXXX" };
+        return { error: "❌ Format Salah. Gunakan OPERATOR-XXXXX" };
     }
     const operator = match[1];
     const num = parseInt(match[2], 10);
@@ -156,12 +159,19 @@ function findBus(nomorLambungInput) {
 
     return { error: "❌ Not found" };
 }
+
+function swapinfoBoxScreens(state) {
+    document.getElementById(currentRightInfoScreen).style.setProperty("display", "none")
+    currentRightInfoScreen = state
+    document.getElementById(state).style.setProperty("display", "block")
+}
+
+
 function showBusInfo(bus, route) {
+    swapinfoBoxScreens("busInfo")
     let businfo = findBus(bus.device_id);
-    const infoBox = document.getElementById("infoBox");
-    const infoBoxContent = document.getElementById("rightInfoBoxContent");
     console.log(bus);
-    infoBoxContent.innerHTML = `
+    infoBoxRightContent.innerHTML = `
     <img src="https://bustracker.ryj.my.id/operator/${bus.device_id.slice(0, 3) || "NA"}.png" alt="Bus" style="height:35px;width:auto;margin-bottom:10px;">
     <h3>Bus ${bus.device_id}</h3>
     <p><strong>Koridor:</strong> ${bus.koridor || "-"}</p>
@@ -175,16 +185,17 @@ function showBusInfo(bus, route) {
     <p><strong>Karoseri:</strong> ${businfo.Karoseri || "-"}</p>
     <p><strong>Melayani Rute:</strong> ${businfo.Rute || "-"}</p>
     `;
-    if (!infoBox.classList.contains("show")) {
-        infoBox.classList.add("show");
+    if (!infoBoxRight.classList.contains("show")) {
+        toggleinfobox()
     }
 }
+
+
 function toggleinfobox() {
-    const infoBox = document.getElementById("infoBox");
-    if (infoBox.classList.contains("show")) {
-        infoBox.classList.remove("show");
+    if (infoBoxRight.classList.contains("show")) {
+        infoBoxRight.classList.remove("show");
     } else {
-        infoBox.classList.add("show");
+        infoBoxRight.classList.add("show");
     }
 }
 
@@ -196,9 +207,9 @@ function populateRoutesList() {
         var fontSize = "1rem";
         if (route.name && route.id.length < 3) {
             fontSize = "1rem";
-        } else if (route.name && route.id.length <= 4 ) {
+        } else if (route.name && route.id.length <= 4) {
             fontSize = "0.75rem";
-        }   else if (route.name && route.id.length > 4 ) {
+        } else if (route.name && route.id.length > 4) {
             fontSize = "0.5rem";
         }
         li.innerHTML = `<button class="routeListButton" at><div style="font-size:${fontSize}; background-color: ${route.color || '#292929'}; color: ${route.textColor || 'white'};" class="routeListContainer">${route.id}</div> ${route.name || "Unknown"}</button>`;
@@ -206,8 +217,8 @@ function populateRoutesList() {
         routesUl.appendChild(li);
     });
     routesListDiv.style.display = "none";
-        routesUl.querySelectorAll(".routeListButton").forEach(btn => {
-        btn.addEventListener("click", function() {
+    routesUl.querySelectorAll(".routeListButton").forEach(btn => {
+        btn.addEventListener("click", function () {
             if (this.classList.contains("selected")) {
                 this.classList.remove("selected");
                 busFilters.koridor = [];
@@ -224,16 +235,21 @@ function populateRoutesList() {
 document.getElementById("btnLocate").onclick = () => {
     map.locate({ setView: true, maxZoom: 16 });
 };
+
+document.getElementById("btnRoute").onclick = () => {
+    toggleinfobox()
+    swapinfoBoxScreens("routesList")
+}
+
 document.getElementById("btnTestInfoBox").onclick = toggleinfobox;
 document.getElementById("infoBoxClose").onclick = toggleinfobox;
 document.getElementById("searchButton").onclick = () => {
     const input = document.getElementById("searchField").value.trim().toUpperCase();
     const businfo = findBus(input);
-    const infoBox = document.getElementById("busInfo");
     if (businfo.error) {
-        infoBox.innerHTML = `<p>${businfo.error}</p>`;
+        infoBoxRight.innerHTML = `<p>${businfo.error}</p>`;
     } else {
-        infoBox.innerHTML = `
+        infoBoxRight.innerHTML = `
         <h3>Bus ${businfo.NomorLambung}</h3>
         <p><strong>Operator:</strong> ${businfo.Operator}</p>
         <p><strong>Service:</strong> ${businfo.Tipe || "-"}</p>
@@ -243,7 +259,7 @@ document.getElementById("searchButton").onclick = () => {
         <p><strong>Melayani Rute:</strong> ${businfo.Rute || "-"}</p>
         `;
     }
-    infoBox.style.display = "block";
+    infoBoxRight.style.display = "block";
 };
 window.onload = async () => {
     await loadRoutes();
